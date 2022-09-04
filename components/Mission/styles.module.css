@@ -1,0 +1,8 @@
+.mission {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+.containerText {
+  max-width: 800px;
+}

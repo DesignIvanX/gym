@@ -1,0 +1,54 @@
+.footer {
+  width: 100%;
+  min-width: 320px;
+}
+.top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 10px;
+}
+.info {
+}
+.one {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  max-width: 500px;
+  min-width: 300px;
+}
+.two {
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.three {
+  max-width: 500px;
+}
+.h2 {
+  font-size: 1rem;
+  color: var(--color-primary);
+  margin: 0;
+}
+.icon {
+  font-size: 2rem;
+  color: var(--color-primary);
+}
+.bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-secondary);
+  border-top: 2px solid #44444430;
+  margin: 0 50px;
+  font-size: 1rem;
+  padding: 10px;
+}
+.contact {
+  display: flex;
+  align-content: center;
+  gap: 0.8rem;
+}

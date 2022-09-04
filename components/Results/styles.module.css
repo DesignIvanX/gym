@@ -1,0 +1,19 @@
+.results {
+  padding: 10px;
+}
+.image {
+  object-fit: cover;
+}
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap-reverse;
+}
+.info {
+  max-width: 700px;
+}
+.p {
+  font-size: 1rem;
+}
