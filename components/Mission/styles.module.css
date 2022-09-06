@@ -3,6 +3,7 @@
   justify-content: center;
   flex-wrap: wrap;
   gap: 4rem;
+  padding: 10px;
 }
 .containerText {
   max-width: 800px;
